@@ -1,1 +1,3 @@
-# Monitoring-Yolov8-Agroindustri-Website<img width="960" alt="monitoring yolov8" src="https://github.com/kikysr27/Monitoring-Yolov8-Agroindustri-Website/assets/109866827/d44c0b40-010b-49ec-8abb-ff7d54f5ee34">
+# Monitoring-Yolov8-Agroindustri-Website
+
+<img width="757" alt="YOLOV8 WEBSITE" src="https://github.com/kikysr27/Monitoring-Yolov8-Agroindustri-Website/assets/109866827/6fbaaaaa-0aa0-4df6-ac4d-5d893ce6545e">
